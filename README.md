@@ -1,3 +1,3 @@
-My first game on Java with using JavaFX \n
-Creator: Kargin Alexander \n
+My first game on Java with using JavaFX <br>
+Creator: Kargin Alexander <br>
 Contacts: https://t.me/Hokure04
